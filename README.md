@@ -14,9 +14,7 @@ Additionally, the script has optional functionality to check for open ports and 
 
 
 Useful Links:
-
 Download Python : https://www.python.org/
-
 Linkedin : https://www.linkedin.com/in/orelmizrahiadani/
 Github : https://github.com/orelmizrahii
 
